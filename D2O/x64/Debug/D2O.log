@@ -1,0 +1,3 @@
+﻿  D2O.cpp
+C:\Users\Zhao\source\repos\D2O\D2O.cpp(9,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  D2O.vcxproj -> C:\Users\Zhao\source\repos\D2O\x64\Debug\D2O.exe
