@@ -2,13 +2,13 @@
 using namespace std;
 int main()
 {
-	unsigned m, n, max, min, s;
+	unsigned m, n, min, s;
 	int i;
 	s = 0;
 	cout << "Please input integers m and n.(m,n>0):";
 	cin >> m >> n;
-	max = (m >= n) ? m : n;
-	for (i = 1; i <= max; i++)
+	min = (m <= n) ? m : n;
+	for (i = 1; i <= min; i++)
 	{
 		if ((m % i == 0) && (n % i == 0))
 		{

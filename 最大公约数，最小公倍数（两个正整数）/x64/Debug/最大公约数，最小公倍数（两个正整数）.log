@@ -1,4 +1,4 @@
 ﻿  最大公约数，最小公倍数（两个正整数）.cpp
-C:\Users\Zhao\source\repos\最大公约数，最小公倍数（两个正整数）\最大公约数，最小公倍数（两个正整数）.cpp(11,16): warning C4018: “<=”: 有符号/无符号不匹配
-C:\Users\Zhao\source\repos\最大公约数，最小公倍数（两个正整数）\最大公约数，最小公倍数（两个正整数）.cpp(5,22): warning C4101: “min”: 未引用的局部变量
-  最大公约数，最小公倍数（两个正整数）.vcxproj -> C:\Users\Zhao\source\repos\最大公约数，最小公倍数（两个正整数）\x64\Debug\最大公约数，最小公倍数（两个正整数）.exe
+C:\Users\Zhao\MyCppProjects\最大公约数，最小公倍数（两个正整数）\最大公约数，最小公倍数（两个正整数）.cpp(11,16): warning C4018: “<=”: 有符号/无符号不匹配
+  LINK : 没有找到 C:\Users\Zhao\MyCppProjects\最大公约数，最小公倍数（两个正整数）\x64\Debug\最大公约数，最小公倍数（两个正整数）.exe 或上一个增量链接没有生成它；正在执行完全链接
+  最大公约数，最小公倍数（两个正整数）.vcxproj -> C:\Users\Zhao\MyCppProjects\最大公约数，最小公倍数（两个正整数）\x64\Debug\最大公约数，最小公倍数（两个正整数）.exe
